@@ -1,0 +1,130 @@
+.u-section-1 {
+  background-image: url("images/2236553.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  animation-duration: 1000ms;
+  text-transform: uppercase;
+  text-decoration: underline !important;
+  margin: 20px 368px 0 437px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  animation-duration: 1000ms;
+  font-style: italic;
+  margin: 9px 20px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 773px;
+  height: 631px;
+  animation-duration: 1000ms;
+  margin: 0 auto 0 184px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 268px;
+    margin-left: 337px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 167px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 457px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 158px;
+    margin-left: 227px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 588px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 310px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 68px;
+    margin-left: 137px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 441px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 147px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-right: 0;
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 278px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 1067px;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-video-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-video-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-video-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-video-1 {
+    width: 340px;
+  }
+}
